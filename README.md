@@ -13,3 +13,28 @@ Saved in Drive under `ResearchPaper(ML)/correction_model_results/`:
 `english_safety_summary_v1.csv`, `english_safety_prompt_audit_v1.csv`, `hard_easy_auc_bootstrap_v1.csv`, and `difficulty_analysis.csv`.
 
 The detector identified 30 of 32 Hinglish prompts from three writers (93.75%). It missed two prompts. This is a small outside-writer check, not a broad estimate of detector accuracy.
+
+### Outside-writer Hinglish validation
+
+An additional detector validation was conducted using
+32 naturally written Hinglish prompts from 3 external
+writers.
+
+- Total prompts: 32
+- Correctly detected as Hinglish: 30
+- False negatives: 2
+- Detection rate: 93.75%
+- False negative rate: 6.25%
+
+The results indicate promising detection performance
+on this small external sample. However, the sample
+size is limited and does not establish broad
+generalization.
+
+Results are saved under:
+`correction_model_results/`
+
+Files:
+- outside_hinglish_prompt_audit_v1.csv
+- outside_hinglish_summary_v1.csv
+- outside_hinglish_by_writer_v1.csv
