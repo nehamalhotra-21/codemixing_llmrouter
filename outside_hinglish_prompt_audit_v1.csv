@@ -1,0 +1,33 @@
+prompt_id,writer_id,prompt,detected_language,is_hinglish_detected
+A001,1,force kya hota hai?,hinglish,True
+A002,1,force or pressure mei kya difference hai?,hinglish,True
+A003,1,sky blue kyu hota hai?,hinglish,True
+A004,1,exams mei full marks kse laye?,hinglish,True
+A005,1,car brands ke nam btao.,hinglish,True
+A006,1,kya teenage mei makeup karna chahiye?,hinglish,True
+A007,1,kya zoological park or botanical garden ek hi hota hai?,hinglish,True
+A008,1,leetcode ki problems kaise solve kare?,hinglish,True
+A009,1,chatur ko English mei kya bolte hai?,hinglish,True
+A010,1,achi movies suggest kro.,english,False
+B001,2,insta pe story post kaise krte hai?,hinglish,True
+B002,2,google form kaise bnate hai?,hinglish,True
+B003,2,data modelling kya hota hai?,hinglish,True
+B004,2,laptop mei fan kaise start kare?,hinglish,True
+B005,2,hath burn ho jaye toh kya kare?,hinglish,True
+B006,2,Earth or moon mei kitna distance hai?,hinglish,True
+B007,2,1 cup sugar mei kitne tablespoons hote hai?,hinglish,True
+B008,2,Mathura ka sabse famous food btao.,hinglish,True
+B009,2,Mere liye Goa ka 5 day trip plan kro.,hinglish,True
+B010,2,Ache gaming latops btao.,english,False
+B011,2,"Mean, median, mode kaise calculate krte hai?",hinglish,True
+B012,2,NASA ki full form kya hoti hai?,hinglish,True
+C001,3,"Mere laptop pe paani gir gya hai, kya karu?",hinglish,True
+C002,3,Tamatar ka pauda kitne dino mei ugta hai?,hinglish,True
+C003,3,Thand mei thande paani se kaise nahaye ?,hinglish,True
+C004,3,Weight loss ki tips?,hinglish,True
+C005,3,Network nahi aa rahi kya kare?,hinglish,True
+C006,3,"Mujhe bhukh lag ri hai, kya banana chahiye?",hinglish,True
+C007,3,Hair fall kaise roke?,hinglish,True
+C008,3,CID ki full form?,hinglish,True
+C009,3,Kis color ki bottle leni chahiye?,hinglish,True
+C010,3,Smartphone ke naye models?,hinglish,True
