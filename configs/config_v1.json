@@ -1,0 +1,8 @@
+{
+  "router_checkpoint": "routellm/bert_gpt4_augmented",
+  "strong_model_label": "gpt-4-1106-preview",
+  "weak_model_label": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "threshold": null,
+  "routellm_version": "0.2.0",
+  "run_date_utc": "2026-11-01T16:41:38+00:00"
+}
