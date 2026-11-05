@@ -1,0 +1,9 @@
+main_category,n,mean_diff,ci_low,ci_high,wilcoxon_p
+Advanced AI,10,-0.015,-0.046,0.019,0.4316
+Advanced Coding,10,0.012,-0.037,0.068,0.9219
+Advanced Reasoning,10,0.011,-0.022,0.047,0.8457
+Coding,10,-0.021,-0.066,0.018,0.5566
+Factual,10,-0.038,-0.076,0.001,0.1055
+Open-Ended,10,-0.167,-0.23,-0.1,0.0039
+Reasoning,10,-0.047,-0.094,-0.006,0.0645
+Research,10,-0.012,-0.029,0.005,0.2754

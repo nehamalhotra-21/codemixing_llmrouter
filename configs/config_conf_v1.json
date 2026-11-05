@@ -1,0 +1,19 @@
+{
+  "threshold": 0.4066,
+  "threshold_source": "routellm.calibrate_threshold, bert, Chatbot Arena reference data (57,477 prompts), strong-model-pct 0.5",
+  "threshold_set_on": "2026-10-24T15:09:23+00:00",
+  "threshold_30pct": 0.46514,
+  "threshold_70pct": 0.33721,
+  "threshold_10pct": 0.59491,
+  "threshold_20pct": 0.50944,
+  "thresholds_extended_on": "2026-10-24T16:05:07+00:00",
+  "primary_threshold_pct": 0.5,
+  "thresholds_recalibrated_on": "2026-10-24T16:51:17+00:00",
+  "router_checkpoint": "routellm/bert_gpt4_augmented",
+  "routellm_version": "0.2.0",
+  "input_file": "confirmatory_v1.csv",
+  "input_sha256": "c515c9822553eb91b2e201f782823e554e2ad93eee3d2246edb86effba848edd",
+  "run_date_utc": "2026-10-24T17:24:14+00:00",
+  "n_pairs": 80,
+  "score_file_scope": "confirmatory main run"
+}

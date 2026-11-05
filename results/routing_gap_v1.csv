@@ -1,0 +1,4 @@
+setting,threshold,EN_strong_pct,HI_strong_pct,EN_only_strong,HI_only_strong,same_route,net_gap_pct (EN-HI),mcnemar_p
+30% strong,0.4651,38.8,41.2,4,6,70,-2.5,0.7539
+50% strong,0.4066,55.0,71.2,1,14,65,-16.2,0.001
+70% strong,0.3372,72.5,90.0,0,14,66,-17.5,0.0001
