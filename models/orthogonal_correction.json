@@ -1,0 +1,10 @@
+{
+  "method": "orthogonal_rescaling",
+  "english_mean": 0.40905004888772967,
+  "hinglish_mean": 0.44412886798381807,
+  "english_std": 0.15108986233997826,
+  "hinglish_std": 0.08409836454520185,
+  "routing_threshold": 0.4066,
+  "training_pairs": 80,
+  "scikit_learn_version": "1.6.1"
+}
