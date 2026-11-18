@@ -1,0 +1,17 @@
+{
+  "router_checkpoint": "routellm/bert_gpt4_augmented",
+  "strong_model_label": "gpt-4-1106-preview",
+  "weak_model_label": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "threshold": 0.4066,
+  "routellm_version": "0.2.0",
+  "run_date_utc": "2026-10-24T14:27:30+00:00",
+  "threshold_source": "routellm.calibrate_threshold, bert, Chatbot Arena reference data (57,477 prompts), strong-model-pct 0.5",
+  "threshold_set_on": "2026-10-24T15:09:23+00:00",
+  "threshold_30pct": 0.46514,
+  "threshold_70pct": 0.33721,
+  "threshold_10pct": 0.59491,
+  "threshold_20pct": 0.50944,
+  "thresholds_extended_on": "2026-10-24T16:05:07+00:00",
+  "primary_threshold_pct": 0.5,
+  "thresholds_recalibrated_on": "2026-10-24T16:51:17+00:00"
+}

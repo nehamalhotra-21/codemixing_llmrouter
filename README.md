@@ -32,3 +32,8 @@ Main finding (152 confirmatory pairs): the average score is the same, but Hingli
 
 ## Not included
 ARC and LeetCode question text is not to be released; release will use pair IDs, source IDs and our own Hinglish text.
+
+## results/person3/thirdset/
+- All analyses in this folder are exploratory. No plan document exists for the third set.
+- routing_mf_v1.csv uses fallback quantile thresholds, not the MF router’s calibration. Do not cite it.
+- The MF crossover in summary_mf_v1.csv is not meaningful, because the slope is about [finish: value and why, e.g. close to 1 or near 0, which makes the crossover point undefined or unstable].
